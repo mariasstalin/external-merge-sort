@@ -81,8 +81,3 @@ java com.sorting.Main
 ## 🛠️ Tech Stack
 - **Language:** Java
 - **Core APIs:** Java NIO (`java.nio.channels.FileChannel`, `java.nio.ByteBuffer`), Concurrency (`java.util.concurrent.*`)
-
----
-
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
